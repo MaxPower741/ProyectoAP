@@ -1,0 +1,23 @@
+.contenedor{
+    padding: 15px;
+    width: 100%;
+}
+
+h4, h5{
+    display: inline;
+}
+
+h5{
+    margin-left: 20px;
+    color: #808080;
+}
+
+img{
+    width: 340px;
+}
+
+.row > div{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}

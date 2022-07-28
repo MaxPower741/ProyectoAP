@@ -1,0 +1,24 @@
+.contenedor{
+    padding: 15px;
+    width: 100%;
+}
+
+img{
+    height: 120px;
+    width: 120px;
+    padding: 10px;
+}
+
+.imagen{
+    text-align: center;
+}
+
+.trabajo{
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.row > div{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}

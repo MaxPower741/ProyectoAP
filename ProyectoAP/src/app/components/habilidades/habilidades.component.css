@@ -1,0 +1,10 @@
+.contenedor{
+    padding: 15px;
+    width: 100%;
+}
+
+.row > div{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
